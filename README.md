@@ -97,6 +97,8 @@ python flashcards_gui.py
 
 ## 🎥 Demo
 
+![Flashcard App Demo](flashcard-desktop-application%20recording.gif)
+
 ---
 
 ## 🔮 Potential Enhancements
